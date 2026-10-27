@@ -1,0 +1,3 @@
+# GitHub users and organizations whose shared pairs are ignored, one per line,
+# for example because they shared made-up pairs. Their pairs drop out of data/
+# with the next update.

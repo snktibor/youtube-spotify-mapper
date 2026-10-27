@@ -1,0 +1,7 @@
+# Repositories that share pairs besides the forks of snktibor/cronchords,
+# which are found on their own. One per line:
+#
+#   owner/repo [branch [path]]
+#
+# The branch defaults to cronchords-export and the path to pairs.json. The
+# file has to be in the format described under "Sharing pairs" in the README.
