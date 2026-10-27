@@ -1,0 +1,14 @@
+# The cronchords clone the matching rules come from
+.cronchords/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
