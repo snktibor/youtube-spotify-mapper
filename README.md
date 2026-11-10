@@ -63,7 +63,7 @@ of it. The pairs are updated every six hours.
 
 ## Sharing pairs
 
-**From cronchords:** turn on sharing as described under
+**From cronchords:** forks share their matches unless they turn it off, see
 [Sharing matches](https://github.com/snktibor/cronchords#sharing-matches) in
 its README. Every fork of cronchords that shares is found on its own.
 
